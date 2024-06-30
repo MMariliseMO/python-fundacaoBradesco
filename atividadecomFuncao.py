@@ -15,6 +15,7 @@ def resultado(nota1, nota2):
     else:
         print("Reprovado")
 
-    nota1 = lerNotas()
-    nota2 = lerNotas()
-    resultado(nota1, nota2)
+
+nota1 = lerNotas()
+nota2 = lerNotas()
+resultado(nota1, nota2)
